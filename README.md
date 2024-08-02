@@ -57,7 +57,7 @@ This command will:
 
 The Project Management API is designed to facilitate the management of projects and tickets within those projects. It provides a set of endpoints for creating, retrieving, updating, and deleting both projects and tickets.
 
-## Endpoints
+### Endpoints
 
 ### Project Endpoints
 
